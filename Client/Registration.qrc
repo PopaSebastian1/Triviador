@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/Registration"/>
+  <qresource prefix="/Poze">
+    <file>Resources/blank.jpg</file>
+    <file>Resources/blue.jpg</file>
+    <file>Resources/1.jpg</file>
+    <file>Resources/triviador-logo.png</file>
+    <file>Resources/background_gradient.png</file>
+    <file>Resources/map2players.jpg</file>
+  </qresource>
+</RCC>

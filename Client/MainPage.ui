@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainPageClass</class>
+ <widget class="QMainWindow" name="MainPageClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1200</width>
+    <height>664</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainPage</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/Poze/Resources/blue.jpg);</string>
+   </property>
+   <widget class="QPushButton" name="Info">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>30</y>
+      <width>181</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>Informatii</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Cont">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>30</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>Cont</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Exit">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>30</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>Exit</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Play">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>350</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>Play</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="doi">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>140</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>2 Players</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="trei">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>330</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>3 Players</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="patru">
+    <property name="geometry">
+     <rect>
+      <x>950</x>
+      <y>240</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>4 Players</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="JoinLobby">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>530</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>Join Lobby</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="OwnerName">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>610</y>
+      <width>201</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Lobby">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>440</y>
+      <width>200</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Nirmala UI</family>
+      <pointsize>14</pointsize>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image:transparent;
+background-color: qlineargradient(spread:pad, x1:0.443, y1:0, x2:0.465909, y2:1, stop:0 rgba(81, 85, 97, 255), stop:1 rgba(255, 255, 255, 255));</string>
+    </property>
+    <property name="text">
+     <string>Create Lobby</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="Registration.qrc"/>
+ </resources>
+ <connections/>
+</ui>
