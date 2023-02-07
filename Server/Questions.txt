@@ -1,0 +1,372 @@
+Q:Who is the president of the United States?
+Joe Biden
+Joe Biden
+Donald Trump
+Barack Obama
+George W. Bush
+When was Michael Jackson born?
+1958
+Q:Who was the first president of the United States?
+George Washington
+Abraham Lincoln
+Thomas Jefferson
+John Adams
+George Washington
+Q:Who invented the light bulb?
+Thomas Edison
+Albert Einstein
+Thomas Edison
+Nikolas Tesla
+Benjamin Franklin
+Q:What is the capital of the United States?
+Washington, D.C.
+New York City
+Washington, D.C.
+Los Angeles
+Chicago
+Q:What is the capital of Canada?
+Ottawa
+Ottawa
+Toronto
+Vancouver
+Montreal
+When was the Declaration of Independence signed?
+1776
+Q:Which country is the largest in the world?
+Russia
+Russia
+China
+United States
+Canada
+Q:Who is the current prime minister of Canada?
+Justin Trudeau
+Stephen Harper
+Justin Trudeau
+Paul Martin
+Jean Chretien
+Q:Where is the Eiffel Tower located?
+Paris, France
+Paris, France
+London, England
+Rome, Italy
+Berlin, Germany
+When did the Second World War end?
+1945
+When did Queen Elizabeth II become queen?
+1952
+Q:Where is the Statue of Liberty located?
+New York City
+Washington
+New York City
+Los Angeles
+Chicago
+When did America become a country?
+1776
+Q:What is the capital of Romania?
+Bucharest
+Teius
+Budapest
+Bucharest
+Pucioasa
+Q:What is the capital of France?
+Paris
+London
+Paris
+Rome
+Berlin
+Q:What is the most spoken language in the world?
+English
+English
+Spanish
+Chinese
+Arabic
+Q:What country won the first World Cup?
+Uruguay
+Brazil
+Argentina
+Uruguay
+Germany
+Q:Who invented the telephone?
+Alexander Graham Bell
+Alexander Graham Bell
+Thomas Edison
+Nikolas Tesla
+Benjamin Franklin
+In what year was the first iPhone released?
+2007
+Q:What is the capital of Germany?
+Berlin
+Berlin
+Madrid
+Rome
+Paris
+Q:Who was the first man in space?
+Yuri Gagarin
+Yuri Gagarin
+Neil Armstrong
+Buzz Aldrin
+Alan Shepard
+Q:Who is the most followed person on Instagram?
+Cristiano Ronaldo
+Dwayne Johnson
+Kylie Jenner
+Cristiano Ronaldo
+Selena Gomez
+Q:Who owns the most expensive house in the world?
+Jeff Bezos
+Bill Gates
+Mark Zuckerberg
+Jeff Bezos
+Elon Musk
+Q:Who is the richest person in the world?
+Elon Musk
+Elon Musk
+Jeff Bezos
+Bill Gates
+Mark Zuckerberg
+Q:What is the most prestigious award in the world?
+Nobel Peace Prize
+Oscar
+Nobel Peace Prize
+Grammy
+Ballon d'Or
+Q:Who created the Mona Lisa?
+Leonardo da Vinci
+Michelangelo
+Raphael
+Leonardo da Vinci
+Pablo Picasso
+Q:Who invented the computer?
+Charles Babbage
+Steve Jobs
+Bill Gates
+Charles Babbage
+Mark Zuckerberg
+Q:Who founded Versace?
+Gianni Versace
+Gianni Versace
+Donatella Versace
+Daniel Versace
+Giancarlo Versace
+Q:Who founded Tesla?
+Elon Musk
+Steve Jobs
+Elon Musk
+Bill Gates
+Mark Zuckerberg
+Q:Which movie won the most Oscars?
+Titanic
+Titanic
+The Godfather
+The Lord of the Rings
+The Shawshank Redemption
+Q:Which country has the most billionaires?
+United States
+China
+India
+Russia
+United States
+When was the first Oscar ceremony held?
+1929
+How many Oscars did Titanic win?
+11
+How much does an elephant weigh?
+6,000 kg
+How many atoms are in a molecule of water?
+3
+How many bones are in the human body?
+206
+In what year did the Titanic sink?
+1912
+In what year Renaissance began?
+1300
+In what year was posted the first video on YouTube?
+2005
+When did Cristopher Columbus discover America?
+1492
+How many legs does a centipede have?
+100
+How many stomaches does a cow have?
+4
+How many teeth does an adult human have?
+32
+How many days does it take for the Earth to orbit the Sun?
+365
+How many days does it take for the Moon to orbit the Earth?
+27
+How far away is the Sun from the Earth?(milions of km)
+150
+What is the diameter of the Earth?(km)
+12742
+How many planets are in our solar system?
+8
+How many moons does Jupiter have?
+79
+How fast is the fastest animal on Earth?
+120
+How fast can a normal human run?
+40
+What's the average cost of a house in the United States?
+300000
+What is the life expectancy of a human?
+80
+What percent of the Earth is covered by water?
+70
+How many ghosts are there in Pacman?
+4
+How long is an Olympic swimming pool?
+50
+How many languages are written from right to left?
+12
+How many hearts does an octopus have?
+3
+How many hearts does a squid have?
+1
+How long do elephant pregnancies last?(months)
+22
+How many vowels are there in the English alphabet?
+5
+Olylmpics games are held after every ... years
+4
+How many countries are there in the world?
+195
+How many sides are there in a pentagon?
+5
+Q:Scientific study of birds is called?
+Ornithology
+Ornithology
+Entomology
+Herpetology
+Ichthyology
+Q:What is the name of the largest ocean in the world?
+Pacific Ocean
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+Q:Who was the Ancient Greek God of War?
+Ares
+Zeus
+Poseidon
+Ares
+Hades
+Q:What company was originally called Cadabra?
+Amazon
+Apple
+Google
+Amazon
+Microsoft
+Q:What is the name of the largest country in the world?
+Russia
+Russia
+China
+United States
+Canada
+How many bones are in the human body?
+206
+How many teeth does an adult human have?
+32
+How many colored squares are there on a chess board?
+32
+How many legs does a spider have?
+8
+What is the only even prime number?
+2
+Q:How is the binary number system represented?
+0 and 1
+0 and 1
+0 and 2
+0 and 3
+0 and 4
+Q:Which country drives on the left side of the road?
+Japan
+China
+United States
+Japan
+Canada
+Q:In the United States, what is the most popular sport?
+Baseball
+Football
+Basketball
+Football
+Hockey
+Q:What is the oldest Disney movie?
+Pinocchio
+Fantasia
+Bambi
+Snow White and the Seven Dwarfs
+Snow White and the Seven Dwarfs
+Q:Botanically speaking, what is a rose?
+A flower
+A fruit
+A vegetable
+A flower
+A tree
+Q:The idea of a "zero" was invented by?
+Euclid
+Archimedes
+Pythagoras
+Pythagoras
+Aristotle
+Q:The idea of Socialism was articulated and developed by?
+Karl Marx
+Karl Marx
+Adam Smith
+John Locke
+Jean-Jacques Rousseau
+Q:Which actor played the role of James Bond in the movie "Dr. No"?
+Roger Moore
+Pierce Brosnan
+Sean Connery
+Sean Connery
+Daniel Craig
+Q:The Panama Canal connects which two oceans?
+Indian and Atlantic
+Indian and Pacific
+Atlantic and Pacific
+Atlantic and Indian
+Atlantic and Pacific
+Q:In which Mario game is the character Yoshi first introduced?
+Super Mario Bros. 2
+Super Mario Bros. 3
+Super Mario Bros.
+Super Mario World
+Super Mario World
+How many strings does a violin have?
+4
+What is the heart rate of a resting adult?
+60
+How many men have walked on the moon?
+12
+At which temperature does water freeze?
+0
+Q:What does NASA stand for?
+National Aeronautics and Space Administration
+National Aeronautics and Space Administration
+National Aeronautics and Space Agency
+National Aeronautics and Space Association
+National Aeronavigation and Space Association
+What is the heart rate of a blue whale?
+1
+How many pairs of chromosomes do humans have?
+23
+How many arms does a starfish have?
+5
+How many degrees are in a circle?
+360
+How many sides does a hexagon have?
+6
+According to the Bible, how many days did it take God to create the world?
+7
+At which temperature does water boil?
+100
+How many sides does a pentagon have?
+5
+In what year did the invasion of Normandy take place?
+1944
+How many days are there in a leap year?
+366
+In what year was the first Computer invented?
+1946
+When did Germany invade Poland?
+1939
